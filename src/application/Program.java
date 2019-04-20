@@ -57,6 +57,8 @@ public class Program {
 		for (Employee obj : list) {
 			System.out.println(obj);
 		}
+		
+		System.out.println("Programa finalizado");
 				
 		sc.close(); 
 

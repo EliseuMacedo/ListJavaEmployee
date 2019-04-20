@@ -10,7 +10,7 @@ public class Employee {
 	public Employee() {
 	}
 	
-	//metodo construtor
+	//método construtor
 	public Employee(int id, String name, double salary) {
 		this.id = id;
 		this.name = name;
